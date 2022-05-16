@@ -16,12 +16,17 @@ You are required to help the manager to predict the right group of the new custo
 
 
 CONTENT
+
 -Basic cleaning and EDA
+
 -Decision Tree
+
         Model Building with two different dataframes
         Model Evaluation
         Final comment on which dataframe is good for this algorithm
+        
 -Random Forest
+
         Model Building with two different dataframes
         Model Evaluation
         Final comment on which dataframe is good for this algorithm
